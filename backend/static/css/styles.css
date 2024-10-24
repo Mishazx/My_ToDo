@@ -1,0 +1,12 @@
+.task {
+  border: 1px solid #007bff; /* Синие границы */
+  border-radius: 5px; /* Скругление углов */
+  padding: 15px; /* Внутренние отступы */
+  margin: 10px 0; /* Внешние отступы */
+  background-color: #f9f9f9; /* Светлый фон */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Тень */
+}
+
+.task button {
+  margin-right: 5px; /* Правый отступ для кнопок */
+}
