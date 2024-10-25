@@ -8,12 +8,18 @@
 
 todo-app/
 ├── backend/
+│   ├── .env
 │   ├── Dockerfile
 │   ├── app.py
 │   ├── requirements.txt
 │   ├── config.py
 │   ├── models.py
 │   ├── routes.py
+│   ├── static/
+│   │   ├── css/
+│   │   │   └── styles.css
+│   │   └── js/
+│   │       └── scripts.js
 │   └── templates/
 │       └── index.html
 ├── docker-compose.yml
